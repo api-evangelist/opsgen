@@ -1,0 +1,42 @@
+{
+    "name": "OpsGen",
+    "description": "There's a better way to build connectivity for high-value enterprise, mobile, IoT, and startup applications. OpsGen can help you easily and rapidly create, manage, and scale your API. Visit our website and find your way!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19009-opsgen.jpg",
+    "tags": [
+        "databases",
+        "deployment",
+        "have api",
+        "spreadsheets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opsgen\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpsGen",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19009-opsgen.jpg",
+            "humanURL": "http:\/\/opsgen.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opsgen-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OpsGenAPI"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/opsgen.com"
+        }
+    ]
+}
